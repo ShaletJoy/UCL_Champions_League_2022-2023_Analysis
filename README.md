@@ -1,2 +1,17 @@
-# UCL_Champions_League_2022-2023_Analysis
-This project analyzes key stats from the 2022/2023 UEFA Champions League season using Power BI. It covers player performance (like goals and assists), team performance (such as wins and goals), and how teams passed the ball during matches.
+# UCL Champions League 2022-2023
+
+## Project Overview
+This project analyzes the 2022/2023 UEFA Champions League season, focusing on player statistics, team performance, and passing analysis.
+
+## Data Source
+The datasets used for this analysis are the "ucl_passing.csv", "ucl_player playing time.csv", "ucl_possession.csv" and "ucl_shooting.csv". The dataset includes key information about players, teams, and match outcomes for the season.
+
+
+## Tools
+- **Excel**: Data Cleaning [Download here]
+- **Power BI**: To visualize the data and create interactive dashboards.
+- **DAX**: For custom calculations and insights.
+
+
+
+
